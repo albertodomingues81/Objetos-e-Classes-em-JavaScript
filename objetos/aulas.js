@@ -15,8 +15,4 @@ class Pessoa {
    }
 }
 
-const alberto = new Pessoa('Alberto' 40);
-
-console.log(alberto);
-
-
+func
