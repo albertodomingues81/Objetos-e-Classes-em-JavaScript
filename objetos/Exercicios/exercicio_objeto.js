@@ -23,3 +23,5 @@ c3.calcularGastoDePercuso(70, 5);
 
 console.log(c3.calcularGastoDePercuso(70, 5));
 console.log(gol.calcularGastoDePercuso(70, 5));
+
+
